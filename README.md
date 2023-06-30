@@ -13,5 +13,5 @@
 <a href="https://twitter.com/rbarongr/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black"/> </a>
 <a href="https://rbgr.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=black"/> </a>
 <a href="https://linktr.ee/rbgr/"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black"/> </a>
-<a href="https://linktr.ee/rbgr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/> </a>
+<a href="https://www.instagram.com/rbarongr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/> </a>
 </p>
