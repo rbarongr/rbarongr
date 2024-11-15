@@ -1,17 +1,33 @@
-<h1 align="center"> rbgr </h1>
-</p>
-<p align="center">
-<img src="https://img.shields.io/static/v1?label=%F0%9F%92%BB&labelColor=303030&message=Computer Engineer&color=505050" alt="Computer Engineer"/>
-<img src="https://img.shields.io/static/v1?label=%F0%9F%92%BE&labelColor=303030&message=Game Developer&color=505050" alt="Game Developer"/>
-</p>
-<p align="center">
-  <a href="https://godotengine.org"><img src="https://img.shields.io/static/v1?label=&labelColor=303030&message=Godot Engine&color=505050&logo=godot-engine&logoColor=%478CBF" alt="Godot Engine"/></a>
-  <a href="https://blender.org"><img src="https://img.shields.io/static/v1?label=&labelColor=303030&message=Blender&color=505050&logo=blender&logoColor=%478CBF" alt="Blender"/></a>
-  <a href="https://www.unrealengine.com"><img src="https://img.shields.io/static/v1?label=&labelColor=303030&message=Unreal Engine&color=505050&logo=unreal-engine&logoColor=%478CBF" alt="Unreal Engine"/></a>
-  <a href="https://unity.com"><img src="https://img.shields.io/static/v1?label=&labelColor=303030&message=Unity&color=505050&logo=unity&logoColor=%478CBF" alt="Unity"/></a>
-<p align="center">
-<a href="https://twitter.com/rbarongr/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black"/> </a>
-<a href="https://rbgr.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=black"/> </a>
-<a href="https://linktr.ee/rbgr/"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black"/> </a>
-<a href="https://www.instagram.com/rbarongr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/> </a>
-</p>
+<h1 align="center">rbarongr</h1>
+
+<!-- Main Role Badges -->
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/%F0%9F%92%BB%20Computer%20Engineer-505050?style=for-the-badge&color=505050" 
+       alt="Computer Engineer" 
+       style="border-radius: 8px; font-weight: bold;"/>
+  <img src="https://img.shields.io/badge/%F0%9F%92%BE%20Game%20Developer-505050?style=for-the-badge&color=505050" 
+       alt="Game Developer" 
+       style="border-radius: 8px; font-weight: bold;"/>
+</div>
+
+<!-- Social Links -->
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <a href="https://bsky.app/profile/rbarongr.com">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=fff" alt="Bluesky" style="border-radius: 4px;"/>
+  </a>
+  <a href="https://rbgr.itch.io/">
+    <img src="https://img.shields.io/badge/itch.io-FF0B34?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itch.io" style="border-radius: 4px;"/>
+  </a>
+  <a href="https://www.threads.net/@rbarongr">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads" style="border-radius: 4px;"/>
+  </a>
+</div>
+
+<!-- Tools & Technologies -->
+<div align="center" style="margin-top: 20px; margin-bottom: 20px; gap: 10px;">
+  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" style="border-radius: 4px;"/>
+  <img src="https://img.shields.io/badge/Blender-FF6E40?style=for-the-badge&logo=blender&logoColor=white" style="border-radius: 4px;"/>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" style="border-radius: 4px;"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="border-radius: 4px;"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="border-radius: 4px;"/>
+</div>
